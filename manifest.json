@@ -1,11 +1,13 @@
 {
-    "name": "Progressive Web App Starter",
-    "short_name": "PWA Starter",
-    "description": "Get up and running with PWAs quickly!",
+    "name": "The Inferno",
+    "short_name": "Inferno",
+    "description": "Enjoy graffiti at its finest!",
     "scope": ".",
     "start_url": "/pwa-starter",
+
     "display": "standalone",
-    "orientation": "portrait", 
+    "orientation": "portrait",
+     
     "background_color": "#ffffff",
     "theme_color": "#ffffff",
     "icons": [
