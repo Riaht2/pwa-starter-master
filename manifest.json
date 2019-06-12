@@ -1,5 +1,5 @@
 {
-    "name": "The Inferno",
+    "name": "Teufelsburg, Berlin",
     "short_name": "Inferno",
     "description": "Enjoy graffiti at its finest!",
     "scope": ".",
@@ -7,7 +7,7 @@
 
     "display": "standalone",
     "orientation": "portrait",
-     
+
     "background_color": "#ffffff",
     "theme_color": "#ffffff",
     "icons": [
